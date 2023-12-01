@@ -1,0 +1,19 @@
+.header{
+    background:var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+    
+}
+.header span{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 2.55rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+}
+.header img{
+    height: 3.2rem;
+}
